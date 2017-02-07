@@ -1,0 +1,18 @@
+.larger-text {
+  font-size: 50px;
+}
+
+.remove-underline {
+  text-decoration: none;
+}
+
+.inline {
+  display: inline;
+}
+
+ body {
+   background-image: url(http://i.imgur.com/ST3e1dK.jpg);
+   background-position: center;
+   background-size:cover;
+   background-repeat: no-repeat;
+ }
